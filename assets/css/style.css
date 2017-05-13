@@ -1,0 +1,43 @@
+html {
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+#Title{
+	
+	font-size: 32px;
+	font-weight: bold;
+
+}
+
+#questions{
+
+	font-size: 18px;
+
+}
+
+body {
+	background-color: black;
+	width: 80%;
+	height: 80%;
+
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+}
+#answers{
+	border: 40px;
+	
+
+}
